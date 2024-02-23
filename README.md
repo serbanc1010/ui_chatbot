@@ -1,6 +1,10 @@
 ## Python UI chatbot
 
-The chatbot for the coding task is written in Python 3.8 and uses the tkinter library for the GUI.  To run it, simply call the chatbot.py file:
+The chatbot for the coding task is written in Python 3.8 and uses the tkinter package for the GUI.  As a prerequisite, you need the have the tk library installed on your system.  Below is an example of installation on an Ubuntu system:
+
+`sudo apt install python3.8-tk`
+
+To run it, simply call the chatbot.py file:
 
 `python3 chatbot.py`
 
