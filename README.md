@@ -4,7 +4,7 @@ The chatbot for the coding task is written in Python 3.8 and uses the tkinter pa
 
 `sudo apt install python3.8-tk`
 
-To run it, simply call the chatbot.py file:
+To run the app, simply call the chatbot.py file:
 
 `python3 chatbot.py`
 
